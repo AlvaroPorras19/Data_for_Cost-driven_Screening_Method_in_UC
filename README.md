@@ -2,7 +2,7 @@
 
 ## Goals 🚀
 
-The aim of this repository is to provide the details of the power systems data set used in papers [[1]](https://arxiv.org/abs/2104.05746). This article have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you to visit the related links to know more our research 😉
+The aim of this repository is to provide the details of the power systems data set used in papers [[1]](https://arxiv.org/abs/2104.05746). This article have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). I suggest you to visit the related links to know more our research 😉
 
 ## Contents 🌌
 
@@ -22,10 +22,10 @@ capacity and generating units have been conveniently modified. More details abou
   * [Lines](https://drive.google.com/file/d/1xdmdiqdm5IduEyGiekc2yffQnnMnuJ4Z/view?usp=sharing)
   * [Net Demands](https://drive.google.com/file/d/1GizpZEclZ_xQo0rBum5LSnZlHFtlnT49/view?usp=sharing)
  
-Additionally, we have included a section in the paper [[1]](https://arxiv.org/abs/2104.05746) evaluating the performance of the proposed approach against topological changes in the 2000-node system. Each topological change considered consists of the disconnection of one of the corridor lines. The following file contains information about the identifier of the [corridor lines](https://drive.google.com/file/d/10u3ZnJEqvUjJOdiFlJ0JwOsuHgIka87u/view?usp=sharing) and the ones we picked to run our experiments. More details in this regard can be found in Section III-B (Experiment 4) of [[1]](https://arxiv.org/abs/2104.05746).
+Additionally, we have included a section in the paper [[1]](https://arxiv.org/abs/2104.05746](https://ieeexplore.ieee.org/abstract/document/9736690) evaluating the performance of the proposed approach against topological changes in the 2000-node system. Each topological change considered consists of the disconnection of one of the corridor lines. The following file contains information about the identifier of the [corridor lines](https://drive.google.com/file/d/10u3ZnJEqvUjJOdiFlJ0JwOsuHgIka87u/view?usp=sharing) and the ones we picked to run our experiments. More details in this regard can be found in Section III-B (Experiment 4) of [[1]](https://ieeexplore.ieee.org/abstract/document/9736690).
   
 ## References 📚
-[1] Á. Porras, S. Pineda, J. M. Morales and A. Jiménez-Cordero "Cost-driven Screening of Line-flow Constraints for the Unit Commitment Problem," arXiv preprint arXiv:2104.05746 (https://arxiv.org/abs/2104.05746), 2021.
+[1] Á. Porras, S. Pineda, J. M. Morales and A. Jiménez-Cordero, "Cost-driven Screening of Network Constraints for the Unit Commitment Problem," in IEEE Transactions on Power Systems, Early Access, 2022.
 
 [2] OASYS, Data of 5-node and 2000-node Power Systems, Github repository (https://github.com/groupoasys/Cost-driven_Screening_Method_Data), 2021
 
@@ -36,12 +36,12 @@ If you want to cite the papers [[1]](https://arxiv.org/abs/2104.05746) or this r
 
 * Article:
 ```
-@article{porras2021cost,
-  title={Cost-driven Screening of Network Constraints for the Unit Commitment Problem},
-  author={{\'A}. Porras, S. Pineda, J. M. Morales and A. Jim{\'e}nez-Cordero,
-  journal={arXiv preprint arXiv:2104.05746},
-  year={2021}
-}
+@article{porras2022cost,
+  author={Porras, Alvaro and Pineda, Salvador and Morales, Juan Miguel and Jimenez-Cordero, Asuncion},
+  journal={IEEE Transactions on Power Systems}, 
+  title={Cost-driven Screening of Network Constraints for the Unit Commitment Problem}, 
+  year={2022},
+  doi={10.1109/TPWRS.2022.3160016}}
 ```
 
 * Repository:
