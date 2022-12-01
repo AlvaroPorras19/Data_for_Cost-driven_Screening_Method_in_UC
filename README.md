@@ -2,7 +2,7 @@
 
 ## Goals 🚀
 
-The aim of this repository is to provide the details of the power systems data set used in papers [[1]](https://arxiv.org/abs/2104.05746). This article have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). I suggest you to visit the related links to know more our research 😉
+The aim of this repository is to provide the details of the power systems data set used in paper [[1]](https://arxiv.org/abs/2104.05746). This article have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). I suggest you to visit the related links to know more our research 😉
 
 ## Contents 🌌
 
