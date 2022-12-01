@@ -2,7 +2,7 @@
 
 ## Goals 🚀
 
-The aim of this repository is to provide the details of the power systems data set used in paper [[1]](https://arxiv.org/abs/2104.05746). This article have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). I suggest you to visit the related links to know more our research 😉
+The aim of this repository is to provide the details of the power systems data set used in paper [[1]](https://arxiv.org/abs/2104.05746). This article have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). I suggest you to visit the related links to know more about the research of the group 😉
 
 ## Contents 🌌
 
@@ -27,7 +27,7 @@ Additionally, we have included a section in the paper [[1]](https://arxiv.org/ab
 ## References 📚
 [1] Á. Porras, S. Pineda, J. M. Morales and A. Jiménez-Cordero, "Cost-driven Screening of Network Constraints for the Unit Commitment Problem," in IEEE Transactions on Power Systems, Early Access, 2022.
 
-[2] OASYS, Data of 5-node and 2000-node Power Systems, Github repository (https://github.com/groupoasys/Cost-driven_Screening_Method_Data), 2021
+[2] OASYS, Data of 5-node and 2000-node Power Systems, Github repository (https://github.com/groupoasys/Cost-driven_Screening_Method_Data), 2022.
 
 ## How to cite the repository and the paper? 📝
 
@@ -37,7 +37,7 @@ If you want to cite the papers [[1]](https://arxiv.org/abs/2104.05746) or this r
 * Article:
 ```
 @article{porras2022cost,
-  author={Porras, Alvaro and Pineda, Salvador and Morales, Juan Miguel and Jimenez-Cordero, Asuncion},
+  author={Porras, \'Alvaro and Pineda, Salvador and Morales, Juan Miguel and Jim\'enez-Cordero, Asuncion},
   journal={IEEE Transactions on Power Systems}, 
   title={Cost-driven Screening of Network Constraints for the Unit Commitment Problem}, 
   year={2022},
@@ -46,19 +46,19 @@ If you want to cite the papers [[1]](https://arxiv.org/abs/2104.05746) or this r
 
 * Repository:
 ```
-@article{Screenpowersystems2021,
+@article{Screenpowersystems2022,
 author = {OASYS},
 journal = {GitHub repository (https://github.com/groupoasys/Cost-driven{\_}Screening{\_}Method{\_}Data)},
 title = {{Data of 5-node and 2000-node Power Systems}},
 url = {https://github.com/groupoasys/Cost-driven{\_}Screening{\_}Method{\_}Data},
-year = {2021}
+year = {2022}
 }
 ```
 
 ## Do you want to contribute? 👨🏾‍🔬
  
  Please, do it ☺ Any feedback is welcome 🤩 so feel free to ask or comment anything you want via a Pull Request in this repo.
- If you need extra help, you can ask Álvaro Porras (alvaroporras19@gmail.com).
+ If you need extra help, you can ask via email (alvaroporras19@gmail.com).
 
  
  ## Developed by 👨🏾‍💻
